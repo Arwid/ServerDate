@@ -1,6 +1,6 @@
 {
   "name": "@dispatcher/serverdate",
-  "version": "3.2.0",
+  "version": "4.0.0",
   "description": "Make the server's clock available to the browser.",
   "main": "lib/ServerDate.js",
   "scripts": {
