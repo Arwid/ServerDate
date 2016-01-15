@@ -1,6 +1,6 @@
 {
-  "name": "serverdate",
-  "version": "3.1.0",
+  "name": "@dispatcher/serverdate",
+  "version": "3.2.0",
   "description": "Make the server's clock available to the browser.",
   "main": "lib/ServerDate.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/NodeGuy/ServerDate.git"
+    "url": "git://github.com/DispatcherInc/ServerDate.git"
   },
   "keywords": [
     "Node.js",
